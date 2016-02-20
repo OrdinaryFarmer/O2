@@ -1,0 +1,16 @@
+.project
+.settings
+.DS_Store
+node_modules/
+*.swp
+*.swo
+.sw*
+logs/
+lib-cov/
+coverage/
+build/
+npm-debug.log
+.idea
+.vscode
+old/
+dist/
